@@ -1,0 +1,12 @@
+
+
+backend - node
+frontend - react
+DatabASE - mysql
+
+
+Backend - admin panel ---users login, signup, smtp, dashboard, CRUD products, CRUD category, CRUD Tag, 
+frontend - home (header, formik, footer, slider banner crud , 3 products show,   )
+
+//
+filters- cat, tag, price,
